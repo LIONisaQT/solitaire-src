@@ -8,4 +8,6 @@ Hosted game is located at [ryanshee.com/solitaire](https://ryanshee.com/solitair
 
 ## Updating /src
 
-Changes here need to be reflected in repos that use this repo as a submodule with `git submodule update`.
+Changes here need to be reflected in repos that use this repo as a submodule with `git submodule update --remote`.
+
+- [See more submodule doc](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
