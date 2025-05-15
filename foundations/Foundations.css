@@ -24,7 +24,7 @@
 	border: 0px;
 }
 
-@media screen and (max-width: 900px) and (orientation: landscape) {
+@media screen and (max-width: 1080px) and (orientation: landscape) {
 	.foundation-pile {
 		height: 110px;
 	}

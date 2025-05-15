@@ -25,7 +25,7 @@
 	margin-top: -105px;
 }
 
-@media screen and (max-width: 900px) and (orientation: landscape) {
+@media screen and (max-width: 1080px) and (orientation: landscape) {
 	.tableau-pile > *:not(:first-child) {
 		margin-top: -90px;
 	}

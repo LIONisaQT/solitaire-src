@@ -135,7 +135,7 @@
 	}
 }
 
-@media screen and (max-width: 900px) and (orientation: landscape) {
+@media screen and (max-width: 1080px) and (orientation: landscape) {
 	.playing-card {
 		height: 110px;
 	}
