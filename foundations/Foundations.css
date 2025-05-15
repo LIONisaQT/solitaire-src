@@ -23,3 +23,9 @@
 .foundation-pile:has(div) {
 	border: 0px;
 }
+
+@media screen and (max-width: 900px) and (orientation: landscape) {
+	.foundation-pile {
+		height: 110px;
+	}
+}
