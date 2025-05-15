@@ -2,7 +2,6 @@
 	width: 100px;
 	height: 140px;
 	perspective: 1000px;
-	-webkit-user-select: none;
 	user-select: none;
 }
 
